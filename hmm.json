@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    {
+      "name": "jsrequire",
+      "type": "haxelib",
+      "version": ""
+    }
+  ]
+}

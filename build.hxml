@@ -1,0 +1,7 @@
+-main Main
+-js main.js
+-dce full
+-D analyzer
+-lib jsrequire
+--macro jsrequire.JSRequire.npmInstall(true)
+-cmd browserify main.js -vo build/out.js 
